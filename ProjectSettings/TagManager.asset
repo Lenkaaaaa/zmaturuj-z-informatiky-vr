@@ -3,7 +3,19 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - LeftHand
+  - RightHand
+  - Drawboard
+  - RightAnswer
+  - ALU_S
+  - Procesor_S
+  - In_S
+  - Out_S
+  - ControlUnit_S
+  - ProgramMemory_S
+  - DataMemory_S
+  - OperatingMemory_S
   layers:
   - Default
   - TransparentFX
@@ -11,7 +23,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - Teleport
   - 
   - 
   - 
